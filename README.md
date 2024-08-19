@@ -1,0 +1,2 @@
+# OpenMinecraftConnectPlatform
+An decentralizational Minecraft Connect Platform/一个去中心化的mc联机平台
